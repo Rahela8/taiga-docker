@@ -1,2 +1,12 @@
-db-data
-static-data
+.env
+E@l65J,hR!
+__pycache__/
+*.pyc
+*.log
+*.db
+*.sqlite3
+*.pid
+node_modules/
+staticfiles/
+media/
+
